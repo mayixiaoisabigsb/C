@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>e:\编程\visual studio\俄罗斯方块\俄罗斯方块</FILEPATH>
+      <FILENAME>tile.cpp</FILENAME>
+      <LINE>60</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'tile::bottom' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>tile::{ctor}</FUNCTION>
+    <DECORATED>??0tile@@QAE@GW4tiletype@@@Z</DECORATED>
+    <FUNCLINE>60</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>e:\编程\visual studio\俄罗斯方块\俄罗斯方块</FILEPATH>
+      <FILENAME>tile.cpp</FILENAME>
+      <LINE>60</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'tile::bottomnum' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>tile::{ctor}</FUNCTION>
+    <DECORATED>??0tile@@QAE@GW4tiletype@@@Z</DECORATED>
+    <FUNCLINE>60</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
